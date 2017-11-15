@@ -1,0 +1,186 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp
+Data file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/businesspoint.wordpress.2017-09-15.xml
+Widget file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/promenadethemes.com-demo-business-point-widgets.wie
+Customizer file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/business-point-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "tibet-952688_1280" (Media)
+[ERROR] Failed to import "rabbit-1903016_1280" (Media)
+[ERROR] Failed to import "pexels-photo-320003" (Media)
+[ERROR] Failed to import "pexels-photo-134643" (Media)
+[ERROR] Failed to import "woman-1807533_1280" (Media)
+[ERROR] Failed to import "mouse-1708347_1280" (Media)
+[ERROR] Failed to import "horses-1984977_1280" (Media)
+[ERROR] Failed to import "frankfurt-1804481_1920" (Media)
+[ERROR] Failed to import "vienna-171444_1920" (Media)
+[ERROR] Failed to import "girl-in-the-hat-1928076_1920" (Media)
+[ERROR] Failed to import "forest-1225983_1920" (Media)
+[ERROR] Failed to import "lake-tahoe-1590923_1920" (Media)
+[ERROR] Failed to import "pexels-photo-169712" (Media)
+[ERROR] Failed to import "pexels-photo-62262" (Media)
+[ERROR] Failed to import "sc" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Video - Latest Video - Imported
+Recent Posts - No Title - Imported
+Custom HTML - No Title - Imported
+Custom HTML - Youtube Video - Imported
+Custom HTML - No Title - Imported
+
+Home Page Widget Area : 
+
+BP: Services - Our Services - Imported
+BP: CTA - Are you impressed with us? - Imported
+BP: Latest News - Recent Posts - Imported
+BP: Newsletter - Subscribe us to get updated - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+BP: Social - No Title - Imported
+
+Footer 2 : 
+
+Recent Posts - No Title - Imported
+
+Footer 3 : 
+
+Categories - No Title - Imported
+
+Footer 4 : 
+
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

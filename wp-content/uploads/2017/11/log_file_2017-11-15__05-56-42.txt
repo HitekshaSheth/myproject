@@ -1,0 +1,53 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp
+Data file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/businesspoint.wordpress.2017-09-15-1.xml
+Widget file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/promenadethemes.com-demo-business-point-widgets-1.wie
+Customizer file = C:\xampp\htdocs\WP/wp-content/uploads/2017/11/business-point-export-1.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Video - Latest Video - Widget already exists
+Recent Posts - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+Custom HTML - Youtube Video - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Home Page Widget Area : 
+
+BP: Services - Our Services - Widget already exists
+BP: CTA - Are you impressed with us? - Widget already exists
+BP: Latest News - Recent Posts - Widget already exists
+BP: Newsletter - Subscribe us to get updated - Widget already exists
+
+Footer 1 : 
+
+Text - About Us - Widget already exists
+BP: Social - No Title - Widget already exists
+
+Footer 2 : 
+
+Recent Posts - No Title - Widget already exists
+
+Footer 3 : 
+
+Categories - No Title - Widget already exists
+
+Footer 4 : 
+
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
